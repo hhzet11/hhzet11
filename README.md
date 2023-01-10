@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hayoung%20Lee%20!🥳&fontSize=50&animation=twinkling)
 
-<h3>📞 Contact</h3>
-* mail : hhzet11@gmail.com
+<h2>📞 Contact</h2>
+hhzet11@gmail.com
 <br><br>
 
-<h3>📎 Tech Stack</h3>
+<h2>📎 Tech Stack</h2>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&flogoColor=white">
@@ -24,7 +24,7 @@
 </div>
 <br><br>
 
-<h3>📝 Paper Work</h3>
+<h2>📝 Paper Work</h2>
 
 | **Date**      | **Title**                                                                                                                                                                                              | **Name**                                                    | **IF**                      |
 |---------  |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------  |-----------------------  |
