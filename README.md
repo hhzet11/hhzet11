@@ -37,7 +37,7 @@ Other :
 
 <h2>📝 Paper Work</h2>
 
-| **Date**      | **Title**                                                                                                                                                                                              | **Name**                                                    | **IF**                      |
+| **Date**      | **Title**                                                                                                                                                                                              | **Journal**                                                    | **IF**                      |
 |---------  |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------  |-----------------------  |
 | 2023.01   | [A Knowledge-Grounded Task-Oriented Dialogue System with Hierarchical Structure for Enhancing Knowledge Selection](https://www.mdpi.com/1424-8220/23/2/685)                                               | Sensors                                                 | 3.847                   |
 | 2023.01   | Sentiment Analysis and Counseling for COVID-19 Pandemic based on Social Media (accepted)                                                                                                                             | International Journal of Web and Grid Services(IJWGS)   | 0.825(5 year IF 3.52)   |
